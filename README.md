@@ -1,5 +1,6 @@
 # BARE
-Ben's Advanced Recovery Environment. A small OS designed for recovery and fixing of Linux (And maybe other Unix) systems
+Ben's Advanced Recovery Environment. A small OS designed to be run from a USB stick for recovery and fixing of Linux (And maybe other Unix) systems
+
 Currently in beta
 
 This system is based on Arch Linux x86_64. If demand arises I will create 32-bit and ARM versions
@@ -17,3 +18,8 @@ Commit any scripts you think would be helpful to fix a broken Linux system
 Also commit any pictures of national parks that could be used as desktop wallpapers
 
 This system is subject to the GNU General Public License. Please see LICENSE file for details. 
+
+# Installation
+Installing BARE is simple. All you need is a USB stick of at least 8GB, the ISO image, and an image writing program such as dd.
+Write the ISO to your USB and boot from it. That's all!
+The image is persistant, so feel free to create your own files or whatever. However, there is currently no method of updating without re-formatting the USB, so keep that in mind. 
