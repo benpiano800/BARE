@@ -1,0 +1,13 @@
+This is a list of recovery programs that are included and their purpose. 
+
+CLI Utilities:
+rsync: Synchronization program
+btrfs-progs: Userspace utilities for managing btrfs volumes
+dd: Core utility designed for copying. Can restore disk images
+snapper: Tool for managing btrfs snapshots
+xfsprogs: Userspace utilities for managing xfs volumes
+arch-install-scripts: Mainly included for arch-chroot, a program that chroots and automatically mounts virtual filesystems.
+
+GUI Utilities:
+timeshift: GUI frontend for rsync and btrfs
+gparted: To fix partitions
